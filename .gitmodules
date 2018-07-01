@@ -1,0 +1,3 @@
+[submodule "dateTools"]
+	path = dateTools
+	url = https://github.com/dereknowicki/dateTools.git
